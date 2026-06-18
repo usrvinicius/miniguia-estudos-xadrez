@@ -1,1 +1,11 @@
-# miniguia-estudos-xadrez
+<h1> CONTEXTO E OBJETIVOS </h1>
+<h2> CONTEXTO </h2>
+O xadres
+<h2> OBJETIVOS </h2>
+
+
+<h1> CURADORIA DE FONTES </h1>
+
+<h1> ENGENHARIA DE PROMPTS E "CICATRIZES" </h1>
+
+<h1> MINIGUIA DE ESTUDO </h1>
