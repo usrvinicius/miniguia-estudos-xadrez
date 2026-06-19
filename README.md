@@ -1,11 +1,11 @@
 <h3> CONTEXTO E OBJETIVOS </h3>
 <h4> CONTEXTO </h4>
-O xadrez é um dos jogos de estratégia mais antigos e populares do mundo. Ao longo dos séculos, evoluiu de um simples passatempo para uma atividade esportiva, educacional e científica. Além de estimular o raciocínio lógico, o planejamento e a tomada de decisões.
+Foi criado um caderno temárico reunindo fontes abertas sobre o tema "<b>Xadrez: Estratégia, História, e Desenvolvimento do Pensamento Lógico"</b>, com o objetivo de organizar conhecimentos introdutórios sobre o assunto. O Xadrez é um dos jogos de estratégia mais antigos e difundidos do mundo, destacando-se não apenas como prática esportiva, mas também como ferramenta educacional capaz de estimular habilidades como raciocínio lógico, concentração, planejamento e resolução de problemas.
 <h4> OBJETIVOS </h4>
-<li>Conhecer a origem e a evolução do xadrez;</li>
-<li>Compreender as regras e os principais conceitos do jogo;</li>
-<li>Estudar estratégias e princípios fundamentais</li>
-<li>Investigar os benefícios do xadrez para o desenvolvimento cognitivo.</li>
+<li>Conhecer a origem e a evolução do jogo;</li>
+<li>Compreender suas regras fundamentais;</li>
+<li>Estudar conceitos estratégicos</li>
+<li>Analisar os benefícios de sua prática.</li>
 <hr>
 <h3> CURADORIA DE FONTES </h3>
 
