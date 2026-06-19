@@ -210,4 +210,24 @@ O estudo do xadrez pode contribuir para: raciocínio lógico, concentração, me
 
 <h4> GLOSSÁRIO </h4>
 
+| Termo | Significado |
+| --- | --- |
+| Xeque | Ataque ao rei |
+| Xeque-mate | Fim da partida |
+| Abertura | Início do jogo |
+| Meio-jogo | Desenvolvimento das estratégias |
+| Final | Etapa final da partida |
+| Roque | Movimento especial do rei e torre |
+| En Passant | Captura especial do peão |
+| Promoção | Transformação do peão |
+| Tática | Combinação de jogadas imediatas |
+| Estratégia | Planejamento de longo prazo |
 
+<h3> PROMPTS REUTILIZÁVEIS </h3>
+<li>Faça um resumo do xadrez destacando seus principais conceitos;</li>
+<li>Crie um glossário com os principais termos do xadrez;</li>
+<li>Compare as características e funções das peças do xadrez;</li>
+<li>Elabore uma linha do tempo da evolução do xadrez;</li>
+<li>Explique os princípios fundamentais das aberturas, do meio-jogo e dos finais;</li>
+<li>Crie cinco perguntas de revisão sobre o xadrez com respostas comentadas;</li>
+<li>Explique o xadrez para um iniciante em uma apresentação de cinco minutos.</li>
