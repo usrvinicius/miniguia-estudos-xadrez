@@ -14,7 +14,11 @@ Foi criado um caderno temático no NotebookLM reunindo fontes abertas sobre o te
 <a href="https://lichess.org/learn">Chess Basics</a> <br>
 <a href="http://static.sapucaia.ifsul.edu.br/professores/mauricio/Clube_Xadrez/historia-do-xadrez.pdf">História do Xadrez</a> <br>
 <a href="http://static.sapucaia.ifsul.edu.br/professores/mauricio/Clube_Xadrez/Xadrez Vitorioso - Yasser Seirewan/Xadrez Vitorioso - Estratégias - Yasser Seirawan.pdf">Xadrez Vitorioso</a> <br>
+<hr>
 
 <h3> ENGENHARIA DE PROMPTS E "CICATRIZES" </h3>
+<h4> Prompt 1 </h4>
+<dialog> O que é o xadrez? </dialog>
+
 
 <h3> MINIGUIA DE ESTUDO </h3>
