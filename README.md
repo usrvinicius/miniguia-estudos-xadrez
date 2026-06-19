@@ -194,7 +194,20 @@ O jogo surgiu na Índia por volta do século VI, sendo conhecido como Chaturanga
 <br><b>Peão</b> - Move uma casa para frente, captura na diagonal e pode ser promovido ao alcançar a última fileira.
 
 <h4> FASES DA PARTIDA </h4>
+<b>Abertura</b> - Objetivos: Desenvolver peças, controlar o centro e proteger o rei.
+<br><b>Meio-Jogo</b> - Objetivos: Criar ataques, melhorar a posição das peças e explorar erros do adversário.
+<br><b>Final</b> - Objetivos: Promover peões, ativar o rei e converter vantagens em vitória.
+
+<h4> CONCEITOS FUNDAMENTAIS </h4>
+<b>Xeque</b> - Quando o rei está ameaçado.
+<br><b>Xeque-mate</b> - Quando o rei não possui movimentos legais para escapar.
+<br><b>Roque</b> - Movimento especial envolvendo rei e torre.
+<br><b>En Passant</b> - Captura especial realizada por peões.
+<br><b>Promoção</b> - Quando um peão chega ao final do tabuleiro e se transforma em outra peça.
+
 <h4> BENEFÍCIOS DO XADREZ </h4>
+O estudo do xadrez pode contribuir para: raciocínio lógico, concentração, memória, planejamento, resolução de problemas e tomada de decisões.
+
 <h4> GLOSSÁRIO </h4>
 
 
