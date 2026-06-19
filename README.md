@@ -18,6 +18,7 @@ Foi criado um caderno temático no NotebookLM reunindo fontes abertas sobre o te
 
 <h3> ENGENHARIA DE PROMPTS E "CICATRIZES" </h3>
 <h4> Prompt 1 - O que é o xadrez? </h4>
+<hr>
 O xadrez é um <b>jogo de estratégia disputado entre dois oponentes</b> em um tabuleiro quadrado composto por <b>64 casas</b> de cores alternadas (claras e escuras). É amplamente considerado o jogo mais popular do mundo e é descrito tanto como uma arte e uma ciência quanto como um esporte e um campo de batalha para a mente.
 
 Aqui estão os elementos fundamentais que definem o que é o xadrez:
@@ -37,6 +38,6 @@ O xadrez é um jogo de **intelecto e pensamento crítico**. Ele exige que o joga
 Embora suas origens exatas sejam debatidas, a teoria mais aceita é que o xadrez evoluiu de um jogo indiano chamado **chaturanga**, praticado há quase dois mil anos. O jogo se espalhou pela Pérsia e pelo mundo árabe antes de chegar à Europa. O xadrez moderno, com as regras e movimentos que conhecemos hoje (especialmente a ampliação dos poderes da dama e do bispo), consolidou-se por volta do **século XV** no sul da Europa.
 
 Atualmente, o xadrez também é praticado em alto nível competitivo, com a Federação Internacional de Xadrez (FIDE) organizando campeonatos mundiais e Olimpíadas de Xadrez. Além disso, o jogo entrou na era moderna com o desenvolvimento de computadores e inteligências artificiais capazes de derrotar os melhores mestres humanos.
-
+<hr>
 
 <h3> MINIGUIA DE ESTUDO </h3>
