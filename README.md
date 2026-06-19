@@ -18,11 +18,11 @@ Foi criado um caderno temático no NotebookLM reunindo fontes abertas sobre o te
 
 <h3> ENGENHARIA DE PROMPTS E "CICATRIZES" </h3>
 <h4> Prompt 1 - O que é o xadrez? </h4>
-O xadrez é um **jogo de estratégia disputado entre dois oponentes** em um tabuleiro quadrado composto por **64 casas** de cores alternadas (claras e escuras). É amplamente considerado o jogo mais popular do mundo e é descrito tanto como uma arte e uma ciência quanto como um esporte e um campo de batalha para a mente.
+O xadrez é um <b>jogo de estratégia disputado entre dois oponentes</b> em um tabuleiro quadrado composto por <b>64 casas</b> de cores alternadas (claras e escuras). É amplamente considerado o jogo mais popular do mundo e é descrito tanto como uma arte e uma ciência quanto como um esporte e um campo de batalha para a mente.
 
 Aqui estão os elementos fundamentais que definem o que é o xadrez:
 
-**Componentes e Objetivo**
+<b>Componentes e Objetivo</b>
 
 - **As Peças:** Cada jogador inicia a partida com **16 peças**: 1 rei, 1 dama (ou rainha), 2 torres, 2 bispos, 2 cavalos e 8 peões. O jogador com as peças brancas sempre começa o jogo.
 - **O Objetivo:** A meta principal é aplicar o **xeque-mate** ao rei adversário. O xeque-mate ocorre quando o rei está em uma posição de ser capturado (em xeque) e não possui nenhum lance legal para escapar.
