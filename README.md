@@ -6,7 +6,6 @@ Foi criado um caderno temático no NotebookLM reunindo fontes abertas sobre o te
 <li>Compreender suas regras e princípios fundamentais;</li>
 <li>Estudar conceitos estratégicos;</li>
 <li>Analisar os benefícios do jogo para o desenvolvimento cognitivo.</li>
-<hr>
 
 <h3> CURADORIA DE FONTES </h3>
 <a href="https://www.fide.com/FIDE/handbook/LawsOfChess.pdf">Laws of Chess</a> <br>
@@ -14,10 +13,10 @@ Foi criado um caderno temático no NotebookLM reunindo fontes abertas sobre o te
 <a href="https://lichess.org/learn">Chess Basics</a> <br>
 <a href="http://static.sapucaia.ifsul.edu.br/professores/mauricio/Clube_Xadrez/historia-do-xadrez.pdf">História do Xadrez</a> <br>
 <a href="http://static.sapucaia.ifsul.edu.br/professores/mauricio/Clube_Xadrez/Xadrez Vitorioso - Yasser Seirewan/Xadrez Vitorioso - Estratégias - Yasser Seirawan.pdf">Xadrez Vitorioso</a> <br>
-<hr>
 
 <h3> ENGENHARIA DE PROMPTS E "CICATRIZES" </h3>
-<h4> Prompt 1 - O que é o xadrez? </h4>
+<hr>
+<h4> PROMPT 1 - O QUE É O XADREZ? </h4>
 <hr>
 O xadrez é um <b>jogo de estratégia disputado entre dois oponentes</b> em um tabuleiro quadrado composto por <b>64 casas</b> de cores alternadas (claras e escuras). É amplamente considerado o jogo mais popular do mundo e é descrito tanto como uma arte e uma ciência quanto como um esporte e um campo de batalha para a mente.
 
@@ -39,7 +38,7 @@ Embora suas origens exatas sejam debatidas, a teoria mais aceita é que o xadrez
 
 Atualmente, o xadrez também é praticado em alto nível competitivo, com a Federação Internacional de Xadrez (FIDE) organizando campeonatos mundiais e Olimpíadas de Xadrez. Além disso, o jogo entrou na era moderna com o desenvolvimento de computadores e inteligências artificiais capazes de derrotar os melhores mestres humanos.
 <hr>
-<h4> Prompt 2 - Quais são as regras básicas do xadrez? </h4>
+<h4> PROMPT 2 - QUAIS SÃO AS REGRAS BÁSICAS DO XADREZ? </h4>
 <hr>
 O xadrez é um jogo de estratégia disputado entre dois oponentes em um tabuleiro de <b>64 casas</b> de cores alternadas. Cada jogador começa com <b>16 peças</b>: um rei, uma dama, duas torres, dois bispos, dois cavalos e oito peões.
 
@@ -85,7 +84,7 @@ Uma partida termina empatada se:
 4. **Repetição:** A mesma posição exata ocorre três vezes no tabuleiro.
 5. **Regra dos 50 lances:** 50 lances consecutivos são feitos sem que nenhum peão seja movido ou nenhuma peça seja capturada.
 <hr>
-<h4> Prompt 3 - Quais são os princípios fundamentais da abertura? </h4>
+<h4> PROMPT 3 - QUAIS SÃO OS PRINCÍPIOS FUNDAMENTAIS DA ABERTURA? </h4>
 <hr>
 Os princípios fundamentais da abertura no xadrez visam estabelecer uma base sólida para o restante da partida, focando principalmente no controle estratégico e na eficiência das peças. De acordo com as fontes, os pilares principais são:
 
@@ -97,7 +96,7 @@ Os princípios fundamentais da abertura no xadrez visam estabelecer uma base só
 
 Seguir esses princípios ajuda a evitar erros comuns, como perder material sem compensação ou deixar o rei exposto a ataques brutais logo no início da partida.
 <hr>
-<h4> Prompt 4 - Explique as diferenças entre abertura, meio-jogo e final. </h4>
+<h4> PROMPT 4 - EXPLIQUE AS DIFERENÇAS ENTRE ABERTURA, MEIO-JOGO E FINAL. </h4>
 <hr>
 As fases de uma partida de xadrez são geralmente divididas em três estágios distintos: a <b>abertura</b>, o <b>meio-jogo</b> e o <b>final</b>, cada uma com objetivos estratégicos e dinâmicas de peças específicas.
 
@@ -127,7 +126,7 @@ O final da partida ocorre quando resta uma **quantidade reduzida de peças** no 
 - **Simplificação:** O jogador que possui vantagem material (como um peão a mais) busca **trocar as peças restantes** para reduzir as chances de truques táticos e garantir uma vitória tranquila no final.
 - **Empate:** Esta fase é onde mais ocorrem empates por falta de material suficiente para o xeque-mate ou por afogamento.
 <hr>
-<h4> Prompt 5 - Como o xadrez contribui para o desenvolvimento do raciocínio lógico? </h4>
+<h4> PROMPT 5 - COMO O XADREZ CONTRIBUI PARA O DESENVOLVIMENTO DO RACIOCÍNIO LÓGICO? </h4>
 <hr>
 O xadrez é amplamente reconhecido como um instrumento fundamental para o <b>exercício da mente</b> e o desenvolvimento do intelecto. De acordo com as fontes, o jogo contribui para o raciocínio lógico através de diversos mecanismos:
 
@@ -153,7 +152,7 @@ Historicamente, o xadrez evoluiu através da aplicação de **princípios cient�
 
 Por essas características, o xadrez é descrito como a **"pedra de toque do intelecto"** e foi incentivado por governos, como o da antiga União Soviética, especificamente para o treinamento da mente e o preparo intelectual das massas.
 <hr>
-<h4> Prompt 6 - Faça uma tabela comparando as peças do xadrez e seus movimentos. </h4>
+<h4> PROMPT 6 - FAÇA UMA TABELA COMPARANDO AS PEÇAS DO XADREZ E SEUS MOVIMENTOS. </h4>
 <hr>
 Com base nas fontes, aqui está uma tabela comparativa das peças de xadrez e seus respectivos movimentos:
 
@@ -173,4 +172,29 @@ Com base nas fontes, aqui está uma tabela comparativa das peças de xadrez e se
 - **Promoção do Peão:** Ao alcançar a última fileira, o peão deve ser obrigatoriamente trocado por uma dama, torre, bispo ou cavalo da mesma cor.
 <hr>
 
+<h4> CICATRIZES ENCONTRADAS </h4>
+<li>Perguntas muito amplas geram respostas longas;</li>
+<li>Especificar o nível do público melhora a qualidade das explicações;</li>
+<li>Solicitar tabelas e exemplos facilita o aprendizado;</li>
+<li>Dividir o estudo em história, regras e estratégias torna o conteúdo mais organizado.</li>
+
 <h3> MINIGUIA DE ESTUDO </h3>
+<h4> O QUE É O XADREZ? </h4>
+O xadrez é um jogo de estratégia disputado entre dois jogadores em um tabuleiro de 64 casas, cujo objetivo é dar xeque-mate no rei adversário.
+
+<h4> ORIGEM DO XADREZ </h4>
+O jogo surgiu na Índia por volta do século VI, sendo conhecido como Chaturanga. Posteriormente, espalhou-se pela Pérsia, pelo mundo árabe e pela Europa, onde adquiriu suas regras modernas.
+
+<h4> AS PEÇAS </h4>
+<b>Rei</b> - Move uma casa em qualquer direção e é a peça mais importante.
+<br><b>Dama</b> - Move qualquer quantidade de casas em qualquer direção.
+<br><b>Torre</b> - Move horizontalmente e verticalmente.
+<br><b>Bispo</b> - Move pelas diagonais.
+<br><b>Cavalo</b> - Move em formato de "L" e pode saltar outras peças.
+<br><b>Peão</b> - Move uma casa para frente, captura na diagonal e pode ser promovido ao alcançar a última fileira.
+
+<h4> FASES DA PARTIDA </h4>
+<h4> BENEFÍCIOS DO XADREZ </h4>
+<h4> GLOSSÁRIO </h4>
+
+
